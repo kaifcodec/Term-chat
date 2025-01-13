@@ -34,7 +34,7 @@ Why use WhatsApp when you don't have privacy use this command line and be cool.
 
 # Next steps
 1. After the above all commands your server is started successfully.
-2. It will show you started server at 0.0.0.0:<port>
+2. It will show you started server at 0.0.0.0:port
 3. Keep in mind that port.
 4. Now the next step is to start a new session from the left side bar.
 5. Start hotspot on your phone.
@@ -44,7 +44,7 @@ ngrok config add-authtoken <your_authtoken>
 ngrok tcp <port>
 8. Here the port is equals the port in which the server is listening.
 9. ngrok tunneling is started successfully.
-10. You will now see on the display it will connect to the server and forward datas from the clients over internet so it will provide you a link eg. tcp://0.tcp.in.ngrok.io:<port2> just copy the '0.tcp.in.ngrok.io' part of the link and go to next session.
+10. You will now see on the display it will connect to the server and forward datas from the clients over internet so it will provide you a link eg. tcp://0.tcp.in.ngrok.io:port2 just copy the '0.tcp.in.ngrok.io' part of the link and go to next session.
 11. In this session the Term-chat directory run
 python client.py
 12. Now it will ask for server IP paste that copied '0.tcp.in.ngrok.io'
