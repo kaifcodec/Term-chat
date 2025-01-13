@@ -13,6 +13,27 @@ Features:
 10. Regular updates and bug fixes
 11. 24×7 issue resolve service
 
+# Usage commands for Termux
+cd $HOME
+apt update -y && apt upgrade-y
+pkg install git
+pkg install openssl
+pkg install python
+git clone https://github.com/kaifcodec/Term-chat.git
+cd Term-chat 
+pip install -r requirements.txt
+python server.py
+
+# Next steps
+1. After the above all commands your server is started successfully.
+2. Now the next step is to start a new session from the left side bar.
+3. Start hotspot on your phone.
+4. Get you ngrok authtoken from there official site after logging in.
+5. 
+
+
+
+
 
 
 
