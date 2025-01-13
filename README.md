@@ -1,6 +1,8 @@
 # Term-chat
 World's First ever chat repository which let you chat over internet from any where with your friends or family members. By just using termux and ngrok.
-Features:
+Why use WhatsApp when you don't have privacy use this command line and be cool.
+
+# Key Features:
 1. Light weight.
 2. No connection issue.
 3. One can use it for localhost chats over wifi or using hotspot
@@ -16,19 +18,19 @@ Features:
 13. 24×7 issue resolve service
 
 # Usage commands for Termux
-cd $HOME
-apt update -y && apt upgrade-y
-pkg install git
-pkg install openssl
-pkg install python
-pkg install wget unzip
-git clone https://github.com/kaifcodec/Term-chat.git
-wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
-unzip ngrok-stable-linux-arm.zip
-mv ngrok /data/data/com.termux/files/usr/bin/
-cd Term-chat 
-pip install -r requirements.txt
-python server.py
+1. cd $HOME
+2. apt update -y && apt upgrade-y
+3. pkg install git
+4. pkg install openssl
+5. pkg install python
+6. pkg install wget unzip
+7. git clone https://github.com/kaifcodec/Term-chat.git
+8. wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+9. unzip ngrok-stable-linux-arm.zip
+10. mv ngrok /data/data/com.termux/files/usr/bin/
+11. cd Term-chat 
+12. pip install -r requirements.txt
+13. python server.py
 
 # Next steps
 1. After the above all commands your server is started successfully.
