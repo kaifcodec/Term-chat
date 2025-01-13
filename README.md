@@ -71,7 +71,7 @@ It's easy for the clients;
 # Troubleshoot
 1. One trouble you will get i.e. sever ip. if you start the server ip one after another you need to change the server ip on which it is listening. (use nano tool for that)
 2. Automation function will be updated soon. no worries.
-
+3. Open issue if you get any error and provide the screenshots on the issue, It will be resolved as soon as possible.
 
 
 
