@@ -1,6 +1,6 @@
 # Term-chat
 World's First ever chat repository which let you chat over internet from any where with your friends or family members. By just using termux and ngrok.
-Why use WhatsApp when you don't have privacy use this command line and be cool.
+Why use WhatsApp when you don't have privacy use this command line tool and be cool.
 
 # Key Features:
 1. Light weight.
@@ -40,16 +40,16 @@ Why use WhatsApp when you don't have privacy use this command line and be cool.
 5. Start hotspot on your phone.
 6. Get you ngrok authtoken from there official site after logging in.
 7. Now run the following commands;
-ngrok config add-authtoken <your_authtoken>
-ngrok tcp <port>
-8. Here the port is equals the port in which the server is listening.
-9. ngrok tunneling is started successfully.
-10. You will now see on the display it will connect to the server and forward datas from the clients over internet so it will provide you a link eg. tcp://0.tcp.in.ngrok.io:port2 just copy the '0.tcp.in.ngrok.io' part of the link and go to next session.
-11. In this session the Term-chat directory run
+8. ngrok config add-authtoken 'your_authtoken'
+9. ngrok tcp 'port' 
+10. Here the port is equals the port in which the server is listening.
+11. ngrok tunneling is started successfully.
+12. You will now see on the display it will connect to the server and forward datas from the clients over internet so it will provide you a link eg. tcp://0.tcp.in.ngrok.io:port2 just copy the '0.tcp.in.ngrok.io' part of the link and go to next session.
+13. In this session the Term-chat directory run
 python client.py
-12. Now it will ask for server IP paste that copied '0.tcp.in.ngrok.io'
-13. Then it will ask for port, input the port2 of that ngrok link and enter, then Choose your nick name that's it you joined the server.
-14. You are all set, Remember you are the host as you running the server.
+14. Now it will ask for server IP paste that copied '0.tcp.in.ngrok.io'
+15. Then it will ask for port, input the port2 of that ngrok link and enter, then Choose your nick name that's it you joined the server.
+16. You are all set, Remember you are the host as you running the server.
 
 # Next steps for the others to chat
 It's easy for the clients;
