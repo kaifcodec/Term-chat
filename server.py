@@ -82,6 +82,7 @@ class ChatServer:
         """Accept new client connections."""
         server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         server_socket.bind((self.host, self.port))
+        server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         server_socket.listen(5)
         print(f"Server started on {self.host}:{self.port}")
         while True:
@@ -96,6 +97,6 @@ class ChatServer:
 
 if __name__ == "__main__":
     host = "0.0.0.0"  # Listen on all available interfaces
-    port = 5020
+    port = 5032
     chat_server = ChatServer(host, port)
     chat_server.run()
