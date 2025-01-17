@@ -56,7 +56,7 @@
 
 3. **Client Connection**
    - In the Term-chat directory, run `python client.py`
-   - Enter the copied Ngrok link IP and port.
+   - Enter the copied Ngrok link IP (i.e. 0.tcp.in.ngrok.io) and port.
    - Choose your nickname and join the server.
 
 ---
