@@ -27,7 +27,8 @@
   ![Screenshot_20250118-112328_1](https://github.com/user-attachments/assets/a77e5a1f-9d70-4d8f-9ae5-793b629b4378)
 
 - **Starting Ngrok:**
-  ![Screenshot_20250118-111227_1](https://github.com/user-attachments/assets/f9c65475-879d-4c25-947b-bb1e92fdc3da)
+  ![Screenshot_20250118-111227_1~2](https://github.com/user-attachments/assets/38e632f4-b2df-4932-8900-35110be8e984)
+
 
 - **Joining the server (you):**
    ![Screenshot_20250118-112311_1](https://github.com/user-attachments/assets/c0f4ed14-3e22-42eb-b2aa-46140b227fad)
