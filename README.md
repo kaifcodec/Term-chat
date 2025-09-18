@@ -1,6 +1,6 @@
 # Term-chat
 
-*World's First ever chat repository which lets you chat over the internet from anywhere with your friends or family members using Termux and Ngrok. Why use WhatsApp when you don't have privacy? Use th[...]
+First ever chat repository which lets you chat over the internet from anywhere with your friends or family members using Termux and Ngrok. Why use WhatsApp when you don't have privacy? Use th[...]
 
 ---
 
