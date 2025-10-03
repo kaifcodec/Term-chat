@@ -107,6 +107,6 @@ First ever chat repository which lets you chat over the internet from anywhere w
 
 ---
 
-Feel free to reach out for any support or suggestions at **kaif.repo.official@gmail.com**!
+Feel free to reach out for any support or suggestions at **kaifcodec@gmail.com**!
 
 ---
