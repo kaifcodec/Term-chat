@@ -3,7 +3,7 @@
 Terminal Chat repository which lets you chat over the internet from anywhere with your friends or family members using Termux and Ngrok. Why use WhatsApp when you don't have control? Why let meta eye on your datas? Remember the PEGASUS case...
 
 ---
-
+ 
 ## Key Features
 
 1. **Lightweight**
