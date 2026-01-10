@@ -107,6 +107,4 @@ Terminal Chat repository which lets you chat over the internet from anywhere wit
 
 ---
 
-Feel free to reach out for any support or suggestions at **kaifcodec@gmail.com**!
 
----
